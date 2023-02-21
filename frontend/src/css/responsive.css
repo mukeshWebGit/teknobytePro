@@ -1,0 +1,9 @@
+ @media (max-width:1440px) {
+    .product {
+        padding: 35px 0px 45px;
+    }
+    .productDes p {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+ }
