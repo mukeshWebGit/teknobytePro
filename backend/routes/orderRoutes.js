@@ -31,7 +31,6 @@ orderRouter.get(
     res.send(orders);
   })
 );
-
 orderRouter.get(
   '/:id',
   isAuth,
