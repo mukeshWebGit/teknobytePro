@@ -62,5 +62,4 @@ import OrderScreen from './screens/orderScreen';
     </div>
   );
 }
-
 export default App;
